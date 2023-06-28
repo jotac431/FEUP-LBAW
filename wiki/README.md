@@ -4,7 +4,7 @@ Newtify aims to bring an innovative news system to the market, whose content is 
 
 ## Project Components
 
-* [ER: Requirements Specification](wiki/er)
+* [ER: Requirements Specification](er.md)
 * [EBD: Database Specification](ebd)
 * [EAP: Architecture Specification and Prototype](eap)
 * [PA: Product and Presentation](pa)
