@@ -5,9 +5,9 @@ Newtify aims to bring an innovative news system to the market, whose content is 
 ## Project Components
 
 * [ER: Requirements Specification](er.md)
-* [EBD: Database Specification](ebd)
-* [EAP: Architecture Specification and Prototype](eap)
-* [PA: Product and Presentation](pa)
+* [EBD: Database Specification](ebd.md)
+* [EAP: Architecture Specification and Prototype](eap.md)
+* [PA: Product and Presentation](pa.md)
 
 ## Artefacts Checklist
 
